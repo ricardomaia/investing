@@ -1,0 +1,17 @@
+{
+  "name": "investing-com-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.10.11",
+    "axios": "^0.21.0",
+    "cron": "^1.8.2",
+    "moment": "^2.29.1"
+  }
+}

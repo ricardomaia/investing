@@ -1,0 +1,2 @@
+Date		    Open		High,		Low	    	Close		Volume		Adj Close
+1605889200000	,29356.52, 	29362.63, 	29355.1, 	29355.96, 	0,      	0
